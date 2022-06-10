@@ -7,7 +7,7 @@ tags:
 authors:
   - name: Joshua Code
     title: Developer
-    url: https://github.com/
+    url: https://github.com/JoshuaCode
     image_url: https://avatars.githubusercontent.com/u/4089393?v=4
     imageUrl: https://avatars.githubusercontent.com/u/7263442?v=4
 ---
